@@ -3,8 +3,8 @@ title: The world of electric cars
 date: 2019-07-20T18:58:22.448Z
 draft: false
 categories: projects
-author: Chris Stayte
-authorImage: uploads/chrisstayte_profilepic.jpg
+author: belal sayed
+authorImage: uploads/belalprofile.jpeg
 comments: true
 share: true
 type: post

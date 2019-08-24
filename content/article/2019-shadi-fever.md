@@ -3,8 +3,8 @@ title: Shadi fever
 date: 2019-07-22T17:34:09.596Z
 draft: false
 categories: projects
-author: Chris Stayte
-authorImage: uploads/chrisstayte_profilepic.jpg
+author: belal sayed
+authorImage: uploads/belalprofile.jpeg
 comments: true
 share: true
 type: post

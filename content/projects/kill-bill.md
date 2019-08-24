@@ -4,8 +4,8 @@ date: 2019-01-31T12:50:08.992Z
 draft: false
 categories: Podcast
 tags: ["article"]
-author: Chris Stayte
-authorImage: uploads/chrisstayte_profilepic.jpg
+author: Belal Sayed
+authorImage: uploads/belalprofile.jpeg
 image: /upload/whatsapp-image-2019-01-15-at-3.32.52-pm.jpeg
 comments: true
 share: true
