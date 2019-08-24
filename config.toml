@@ -1,16 +1,16 @@
 baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
-disqusShortname = "missioncharge"
+disqusShortname = "belal sayed "
 paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "missioncharge"
-  subtitle    = "All things electric "
+  title       = "belal sayed blog"
+  subtitle    = "All Blogs"
 
   cover       = "img/blog-cover.jpg"
-  description = "ALL things electric"
+  description = "ALL Blogs"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
