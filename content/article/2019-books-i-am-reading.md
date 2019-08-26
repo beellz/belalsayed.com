@@ -14,7 +14,7 @@ type: post
 ---
  	
 
-## Progress is going slow and it I am still processing, 
+## Progress is going slow and I am still processing, 
 
 ### The book I am currently reading (will be updating over time)
 
