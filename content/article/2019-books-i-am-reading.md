@@ -1,7 +1,7 @@
 ---
 title: 'Books I am reading '
 date: 2019-08-26T10:47:37.297Z
-draft: true
+draft: false
 categories: article
 author: Belal Sayed
 authorImage: uploads/belalprofile.jpeg
