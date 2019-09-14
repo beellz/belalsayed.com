@@ -1,5 +1,6 @@
 ---
 title: 'My Morning Routine '
+
 draft: false
 categories: article
 tags:
@@ -15,7 +16,7 @@ type: post
 # Morninig routine
 
 
-###Things I follow Daily 
+### Things I follow Daily 
 
 #### In times from waking up
 
@@ -76,7 +77,7 @@ Till the time the water is getting warm, I start my computer and get to the deti
 
 
 
-##By this my Morning goes By 
+## By this my Morning goes By 
 
 If u have read till here thank you and If You have any suggestion Do let me know. Any Advice is appretiable.
 
