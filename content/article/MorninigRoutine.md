@@ -1,6 +1,6 @@
 ---
 title: 'My Morning Routine '
-
+date: 2019-09-14T08:06:52.214Z
 draft: false
 categories: article
 tags:
@@ -29,10 +29,10 @@ type: post
 
 #### After waking up 
 
-firstly i go to the washroom and brush up and get clean. 
-Then i go to Toilet, after that I meet my parents to do salam, have some talk with dad before he is gone to his office .
+Firstly when i wake up I go to the washroom and brush up and get clean. Once I am 
+fresh and clean I will meet my parents to do salam, Then have some talk with dad before he is gone to his office .
 
-while the time mom is making breakfast for dad and me. I normally eat Eggs and bread as breakfast. Sometimes i try something else depending upon my mood. (mostly two eggs and two bread) 
+while this time mom is preparing breakfast for dad and me. Normally I eat Eggs and bread as breakfast. Sometimes i try something else depending upon my mood. (mostly two eggs and two bread) 
 
 ```
 
